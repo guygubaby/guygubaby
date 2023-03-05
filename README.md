@@ -4,8 +4,8 @@
 
 ### Sites
 
-- [guygubaby](https://guygubaby.netlify.app/)
-- [bryce-loskie](https://bryce-loskie.netlify.app/)
+- [intro](https://guygubaby.top/)
+- [misc](https://misc.guygubaby.top/)
 
 ### Projects
 
