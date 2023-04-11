@@ -5,7 +5,6 @@
 ### Sites
 
 - [intro](https://guygubaby.top/)
-- [misc](https://misc.guygubaby.top/)
 
 ### Projects
 
