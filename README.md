@@ -1,6 +1,4 @@
-### Hi there 👋  This is guygubaby
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka+One&pause=1000&color=6366F1&multiline=true&width=435&lines=Youngblood+thinks+there's+always+tomorrow)](https://git.io/typing-svg)
+### Hi there 👋  This is guygubaby <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ### Sites
 
